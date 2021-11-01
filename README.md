@@ -1,0 +1,3 @@
+A bowling scorecard webapp, built using Rails.
+
+The motivation behind doing this little side project is two fold. The first being that during Makers, one of the harder weekend challenges that I never completed (but felt I was extremely close!) was the bowling score challenge. This is due to bowling deceptively hard scoring mechanic and logic. The second reason is to brush up my Ruby on Rails with building a webapp from scratch.
